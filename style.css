@@ -17,6 +17,9 @@ div {
   p{
     padding-left: 50px;
   }
-  #blue{
-    
+  .new{
+    color: #6070FF;
+  }
+  svg{
+    padding-left: 50px;
   }
