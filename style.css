@@ -1,0 +1,22 @@
+
+a{
+    color:  #6070FF;
+    font-family: arial, verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+}
+div {
+    font-family: myFirstFont;
+  }
+  h1{
+    padding-left: 50px;
+    align-items: center;
+    font-weight: 200;
+  }
+  p{
+    padding-left: 50px;
+  }
+  #blue{
+    
+  }
