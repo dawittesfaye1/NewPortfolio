@@ -6,9 +6,40 @@ a{
     font-style: normal;
     font-weight: 700;
 }
-div {
-    font-family: myFirstFont;
-  }
+.nav{
+  height: 80px;
+width: 1200px;
+}
+label.navbar{
+  color: #6070FF;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 80px;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+}
+nav ul li a{
+  text-transform: uppercase;
+  padding: 7px 13px;
+} 
+a.active, a:hover{
+  background: #EBEBFF;
+  transition: .5s;
+  
+}
+.navbar{
+  width: 1200px;
+}
+.icons{
+   padding-left: 50px;
+    align-items: center;
+}
   h1{
     padding-left: 50px;
     align-items: center;
